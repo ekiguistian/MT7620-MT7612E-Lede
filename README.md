@@ -22,3 +22,11 @@ Flash firmware.bin with SPI programmer
 ![](https://i.ibb.co/fYfcjYW/4.png)
 ![](https://i.ibb.co/5cs32CJ/5.png)
 ![](https://i.ibb.co/tLh9c2B/6.png)
+
+## Dukungan anda berarti bagi saya untuk mengembangkan dan menemukan lebih banyak inspirasi.
+
+[Traktir Eki Segelas Kopi](https://app.midtrans.com/payment-links/b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t)
+
+<a href="https://app.midtrans.com/payment-links/b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t">
+  <img src="./G025119549_Payment_Link_b45ec2c9-80f7-4dd8-b2e9-e18d430d192e-7l5NTR4t.png" alt="QR Traktir Eki Segelas Kopi" width="320" />
+</a>
